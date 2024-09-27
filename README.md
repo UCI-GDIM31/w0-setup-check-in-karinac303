@@ -5,15 +5,18 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. My name is Karina, I go by any pronouns, and I like to play competitive shooter games (only with friends), cozy games like Stardew, and visual novels. Im taking this class because it is part of my requirements. I have made games before in my Highschool design class, through the engine, Construct 3. I hope to build functional games that are actually entertaining, haha.  
+1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [0] Game Design & Interactive Media
+    - [ ] Game Design & Interactive Media
+    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
+    - [ ] Art-related major (please specify)
+    - [ ] Undecided
+    - [ ] Other (please specify)
 
-
-3. I hope to gain experience working in unity, as it is a program I have always wanted to try but never got the chance to.
-4. I am not extremely nervous about the class, more excited to learn about a new language and program!
+3. What are you hoping to get out of this class?
+4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
 
@@ -21,11 +24,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming: A little bit of Java, I can understand basic coding concepts.
+1. Programming (any languages/ frameworks)
 
-2. Game development: Construct 3
+2. Game development (any engine)
 
-3. Unity: N/a
+3. Unity
 
 ### Programming & Game Development Concepts
 
@@ -36,15 +39,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document: n/a
+1. Game design document
 
-2. Scope management: Public vs Private code, how far someone or a variable can be used within the code, like locally (within the line of code, or throughout the entire class.
+2. Scope management
 
-3. Iteration: Repeating code, looping.
+3. Iteration
 
-4. Object-Oriented programming: n/a
+4. Object-Oriented programming
 
-5. Model-View-Controller architecture: n/a
+5. Model-View-Controller architecture
 
 ## Complete!
 
